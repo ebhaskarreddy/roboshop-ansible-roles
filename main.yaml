@@ -2,4 +2,3 @@
   hosts: "{component}}"
   roles:
     - "{{component}}"
-    -
