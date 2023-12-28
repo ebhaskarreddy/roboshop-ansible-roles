@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.bhaskar75.online # submit your host
+REDIS_HOST: redis.bhaskar75.online
+MYSQL_HOST: mysql.bhaskar75.online
+RABBITMQ_HOST: rabbitmq.bhaskar75.online
+CATALOGUE_HOST: catalogue.bhaskar75.online
+USER_HOST: user.bhaskar75.online
+CART_HOST: cart.bhaskar75.online
+SHIPPING_HOST: shipping.bhaskar75.online
+PAYMENT_HOST: payment.bhaskar75.online
+DISPATCH_HOST: dispatch.bhaskar75.online
